@@ -29,9 +29,10 @@
 
 <br />
 <br />
-<br />
 
-[<div align='left'>![Codewars](https://github.r2v.ch/codewars?user=spikedev187)</div>]
 
+<div aling='left'>
+![Codewars](https://github.r2v.ch/codewars?user=spikedev187)
+</div>
 
 [vk]: https://vk.com/frontenddev13
