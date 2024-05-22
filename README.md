@@ -28,7 +28,10 @@
 [<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:spikedev81@gmail.com)
 
 <br />
+<br />
+<br />
 
-![Codewars](https://github.r2v.ch/codewars?user=spikedev187)
+[<div align='left'>![Codewars](https://github.r2v.ch/codewars?user=spikedev187)</div>]
+
 
 [vk]: https://vk.com/frontenddev13
