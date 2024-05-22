@@ -31,8 +31,7 @@
 <br />
 
 
-<div aling='left'>
-![Codewars](https://github.r2v.ch/codewars?user=spikedev187)
-</div>
+
+<img src="https://github.r2v.ch/codewars?user=spikedev187" align="left">
 
 [vk]: https://vk.com/frontenddev13
