@@ -25,7 +25,6 @@
 ### Connect with me:
 
 [<img align="left" alt="Ilya | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:spikedev81@gmail.com)
 
 [vk]: https://vk.com/frontenddev13
-[gmail]: spikedev81@gmail.com
