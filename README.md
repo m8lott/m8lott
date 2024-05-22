@@ -27,4 +27,8 @@
 [<img align="left" alt="Ilya | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:spikedev81@gmail.com)
 
+<br />
+
+![Codewars](https://github.r2v.ch/codewars?user=spikedev187)
+
 [vk]: https://vk.com/frontenddev13
